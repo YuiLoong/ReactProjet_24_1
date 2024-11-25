@@ -1,7 +1,8 @@
 # 실행결과 화면
 
 
-![image](https://github.com/user-attachments/assets/c86916a5-6484-4741-9202-a4fcbafd02db)
+![image](https://github.com/user-attachments/assets/57ca7609-6041-46c3-b224-f43b46edecc1)
+
 
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
